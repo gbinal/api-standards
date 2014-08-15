@@ -12,7 +12,7 @@ This document provides a mix of:
 * **Low level web practices** that most modern HTTP APIs use.
 
 ### Design for common use cases
-
+fxnrxmyfmjtf,jugk
 For APIs that syndicate data, consider several common client use cases:
 
 * **Bulk data.** Clients often wish to establish their own copy of the API's dataset in its entirety. For example, someone might like to build their own search engine on top of the dataset, using different parameters and technology than the "official" API allows. If the API can't easily act as a bulk data provider, provide a separate mechanism for acquiring the backing dataset in bulk.
